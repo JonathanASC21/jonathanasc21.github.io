@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    font-family: Helvetica;
+    color: white;
+    display: flexbox;
+}
+
+div {
+    color: gray;
+    font-size: 32px;
+    padding: 5px;
+    text-align: center;
+ }
+  
+ #big_div {
+    display: flex;
+    justify-content: space-around;
+ }
+  
+ img {
+    width: 60px;
+ }
+  
+ .items:hover {
+    color: white;
+ }
+  
+ a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+ }
+
+#home{
+    justify-content: center;
+    width: 200px;
+}
+
+.link{
+    text-align: center;
+    color: blue;
+
+}
+
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+}
