@@ -21,7 +21,7 @@ div {
     width: 60px;
  }
   
- .items:hover {
+.items:hover {
     color: white;
  }
   
@@ -45,4 +45,8 @@ div {
 p{
     margin-left: 50px;
     margin-right: 50px;
+}
+
+#d, #l{
+    text-align: right;
 }
